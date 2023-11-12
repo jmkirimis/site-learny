@@ -654,7 +654,7 @@ a:hover{
     .forma-4{
         position: absolute;
         right: 0;
-        margin-right: 220px;
+        margin-right: 225px;
         z-index: 3;
     }
     .triangulo-forma{
@@ -697,6 +697,7 @@ a:hover{
     }
     .nuvens{
         height: 500px;
+        background-position: center;
     }
     .nuvem-cima{
         display: none;
