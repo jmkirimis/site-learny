@@ -789,7 +789,7 @@ a:hover{
         margin-bottom: 7%;
     }
     .swiper {
-        width: 220px;
+        width: 200px;
         height: 400px;
         margin-bottom: 10%;
     }
@@ -797,7 +797,7 @@ a:hover{
         font-size: 30px;
     }
     .funcao-integrante{
-        font-size: 15px;
+        font-size: 13px;
     }
     .sociais{
         margin-top: 2%;
@@ -1237,22 +1237,6 @@ a:hover{
     .margin-top-learny{
         margin-top: 835px;
     }
-    .slide-container{
-        position: absolute;
-        margin-bottom: 5%;
-        margin-top: 0;
-        max-width: 1024px;
-        height: 700px;
-        width: 100%;
-        padding: 40px 0;
-    }
-    .slide-content{
-        margin: 0 60px;
-        overflow: hidden;
-        border-radius: 25px!important;
-        height: 80%;
-        margin-top: 7.5%;
-    }
     .sociais{
         margin-top: 2%;
         margin-bottom: 2%;
@@ -1436,22 +1420,6 @@ a:hover{
     }
     .margin-top-learny{
         margin-top: 850px;
-    }
-    .slide-container{
-        position: absolute;
-        margin-bottom: 5%;
-        margin-top: 0;
-        max-width: 1200px;
-        height: 700px;
-        width: 100%;
-        padding: 40px 0;
-    }
-    .slide-content{
-        margin: 0 60px;
-        overflow: hidden;
-        border-radius: 25px!important;
-        height: 80%;
-        margin-top: 7.5%;
     }
     .sociais{
         margin-top: 2%;
