@@ -392,13 +392,13 @@ a:hover{
     border-style: none;
 }
 .sobre{
-    background-image: url(../img/inicio.png);
+    background-image: url(../img/telamundo.png);
 }
 .plano{
-    background-image: url(../img/plano.png);
+    background-image: url(../img/tela1.png);
 }
 .diarias{
-    background-image: url(../img/atividades-diarias.png);
+    background-image: url(../img/telafase.png);
 }
 .estatisticas{
     background-image: url(../img/estatisticas.png);
@@ -472,7 +472,7 @@ a:hover{
     background-image: linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.4)),url(../img/guilherme.jpeg);
 }
 .pessoa4{
-    background-image: linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.4)),url(../img/eli.jpeg);
+    background-image: linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.4)),url(../img/gabriel.jpeg);
 }
 .card-content{
     position: absolute;
